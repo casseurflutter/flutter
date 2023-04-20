@@ -1,0 +1,105 @@
+{
+  "identifier" : "0890EA2E",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "B8F8C86C",
+      "localizations" : [
+
+      ],
+      "name" : "duo",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+            {
+              "eligibility" : [
+                "new",
+                "existing",
+                "expired"
+              ],
+              "internalID" : "24E5FB50",
+              "isStackable" : true,
+              "paymentMode" : "free",
+              "referenceName" : "Test Offre",
+              "subscriptionPeriod" : "P1M"
+            }
+          ],
+          "displayPrice" : "10.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "4BFE05EE",
+          "introductoryOffer" : {
+            "internalID" : "AE943337",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "duo_monthly_subscription",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Duo",
+          "subscriptionGroupID" : "B8F8C86C",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "C4FEDC84",
+      "localizations" : [
+
+      ],
+      "name" : "solo",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "8.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "317E5CC7",
+          "introductoryOffer" : {
+            "internalID" : "2F879497",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "solo_monthly_subscription",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Solo",
+          "subscriptionGroupID" : "C4FEDC84",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

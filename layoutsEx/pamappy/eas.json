@@ -1,0 +1,58 @@
+{
+  "cli": {
+    "version": ">= 0.37.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "staging": {
+      "channel": "staging",
+      "ios": {
+        "autoIncrement": true,
+        "buildConfiguration": "Release"
+      },
+      "android": {
+        "autoIncrement": true,
+        "image": "latest",
+        "buildType": "apk"
+      },
+      "env": {
+        "API_URL": "https://staging-pamappy.linksoftware.net/api"
+      }
+    },
+    "production": {
+      "channel": "production",
+      "ios": {
+        "autoIncrement": true,
+        "credentialsSource": "local",
+        "buildConfiguration": "Release",
+        "scheme": "PaMappy"
+      },
+      "android": {
+        "autoIncrement": true,
+        "image": "latest"
+      },
+      "env": {
+        "API_URL": "https://pamappy.linksoftware.net/api"
+      }
+    }
+  },
+  "submit": {
+    "staging": {
+      "ios": {
+        "appleId": "itunes@apptree.be",
+        "ascAppId": "1601983099",
+        "appleTeamId": "9F3LBK677L"
+      }
+    },
+    "production": {
+      "ios": {
+        "appleId": "itunes@apptree.be",
+        "ascAppId": "1601983099",
+        "appleTeamId": "9F3LBK677L"
+      }
+    }
+  }
+}

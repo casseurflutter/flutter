@@ -1,0 +1,78 @@
+{
+  "expo": {
+    "name": "PaMAppy",
+    "slug": "pamappy",
+    "version": "1.3.0",
+    "owner": "linksoftware",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "originalFullName": "@linksoftware/pamappy",
+    "currentFullName": "@linksoftware/pamappy",
+    "scheme": "pamappy",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/d38f8493-74e8-492b-9fd8-5106d8f799e6"
+    },
+    "extra": {
+      "oneSignalAppId": "9547eb29-7581-481a-a879-75aec41c6f28",
+      "eas": {
+        "build": {
+          "experimental": {
+            "ios": {
+              "appExtensions": [
+                {
+                  "targetName": "OneSignalNotificationServiceExtension",
+                  "bundleIdentifier": "net.linksoftware.pamappy.OneSignalNotificationServiceExtension",
+                  "entitlements": {
+                    "com.apple.security.application-groups": [
+                      "group.net.linksoftware.pamappy.onesignal"
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "projectId": "d38f8493-74e8-492b-9fd8-5106d8f799e6"
+      }
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "googleServicesFile": "./ios/GoogleService-Info.plist",
+      "supportsTablet": true,
+      "bundleIdentifier": "net.linksoftware.pamappy",
+      "buildNumber": "156",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#95D1EE"
+      },
+      "package": "net.linksoftware.pamappy",
+      "versionCode": 80
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "onesignal-expo-plugin",
+        {
+          "mode": "development"
+        }
+      ]
+    ],
+    "runtimeVersion": "1.0.0"
+  }
+}

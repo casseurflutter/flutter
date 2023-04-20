@@ -1,0 +1,182 @@
+[
+  {
+    "_id": 0,
+    "name": "Cliniques universitaires Saint-Luc UCL",
+    "address": "Unité de Fécondation In Vitro\nAvenue Hippocrate, 10\n1200 Bruxelles",
+    "receptionNumber": "02 764 10 22",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 1,
+    "name": "UZ Brussel – Centrum voor Reproductieve Geneeskunde",
+    "address": "Avenue du Laerbeek 101\nB-1090 Bruxelles (Jette)",
+    "receptionNumber": "02 477 66 99",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 2,
+    "name": "CHU Saint-Pierre – Centre de Procréation Médicalement Assistée",
+    "address": "Bâtiment 200, 5è étage\nDépartement de Gynécologie-Obstétrique\nCentre de Fécondation In vitro\nRue Haute, 322\n1000 Bruxelles",
+    "receptionNumber": "02 535 34 06",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 3,
+    "name": "Hôpital Érasme – Centre de fertilité de l’ULB",
+    "address": "Route de Lennik 808\n1070 Bruxelles",
+    "receptionNumber": "02 555 31 11",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 4,
+    "name": "CH Interrégional Edith Cavell (CHIREC) – Centre de PMA",
+    "address": "Bâtiment E – Etage 1\nRue Edith Cavell 32\n1180 Bruxelles",
+    "receptionNumber": "02 434 40 83",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 5,
+    "name": "Hôpital de Braine-l’Alleud – Waterloo",
+    "address": "Bâtiment A – Etage 3\nRue Wayez 35\n1420 Braine-l’Alleud",
+    "receptionNumber": "02 434 95 55",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 6,
+    "name": "Centre médical de la reproduction – Grand Hôpital de Charleroi",
+    "address": "Grand’Rue 3\n6000 Charleroi",
+    "receptionNumber": "071 10 35 10",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 7,
+    "name": "Centre Hospitalier de l’Ardenne",
+    "address": "Service de PMA\nAvenue de Houffalize, 35\n6800 Libramont",
+    "receptionNumber": "061 23 87 07",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 8,
+    "name": "Centre de PMA du CHC",
+    "address": "rue François Lefebvre, 207\n4000 Rocourt",
+    "receptionNumber": "04 239 47 75",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 9,
+    "name": "Centre de Procréation Médicalement Assistée de l’Université de Liège",
+    "address": "Boulevard du XIIe de Ligne, 1\n4000 Liège",
+    "receptionNumber": "04 225 65 75",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 10,
+    "name": "Centre Hospitalier Régional de Namur – Centre de PMA",
+    "address": "Avenue Albert Ier 185\n5000 Namur",
+    "receptionNumber": "081 72 61 11",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 11,
+    "name": "AZ Jan Palfijn – Centrum voor Fertiliteitstherapie",
+    "address": "Weststraat 16/18\n9880 Aalter",
+    "receptionNumber": "09 325 92 20",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 12,
+    "name": "ZNA Middelheim – Centrum voor Reproductieve Geneeskunde",
+    "address": "Lindendreef 1\n2020 Antwerpen",
+    "receptionNumber": "03 280 24 80",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 13,
+    "name": "Universitire Ziekenhuis Antwerpen (UZA) – Centrum voor Reproductieve Geneeskunde",
+    "address": "Wilrijkstraat, 10\n2650 Edegem",
+    "receptionNumber": "03 821 36 84",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 14,
+    "name": "AZ Sint-Jan – CRG Brugge-Kortrijk",
+    "address": "Ruddershove 10,\n8000 Brugge",
+    "receptionNumber": "050 45 27 69",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 15,
+    "name": "UZ Gent – Vrouwenkliniek – Afdeling reproductieve geneeskunde",
+    "address": "De Pintelaan 185,\nToegang auto via Heymanslaan\n9000 Gent",
+    "receptionNumber": "09 332 21 11",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 16,
+    "name": "IVF Centrum – Jan Palfijn Ziekenhuis",
+    "address": "Henri. Dunantlaan 5,\n9000 Gent",
+    "receptionNumber": "09 224 88 50",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 17,
+    "name": "Ziekenhuis Oost-Limburg – St. Jan – Genk Institute for Fertility Technology (GIFT)",
+    "address": "Dienst fertiliteit\nSchiepse Bos 6\n3600 Genk",
+    "receptionNumber": "089 32 77 25",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 18,
+    "name": "Regionaal Ziekenhuis Heilig Hart Unit Reproductieve Geneeskunde",
+    "address": "Naamsestraat 105\n3000 Leuven",
+    "receptionNumber": "016 20 90 30",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  },
+  {
+    "_id": 19,
+    "name": "UZ Leuven KUL – Fertiliteit Centrum",
+    "address": "Herestraat 49\n3000 Leuven",
+    "receptionNumber": "016 34 36 50",
+    "planningNumber": "",
+    "resultsNumber": "",
+    "emergencyNumber": ""
+  }
+]

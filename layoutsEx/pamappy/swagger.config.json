@@ -1,0 +1,6 @@
+{
+  "url": "https://staging-pamappy.linksoftware.net/api-json",
+  "dir": "./src/api",
+  "prefix": "/api",
+  "reactHooks": true
+}
